@@ -1,7 +1,8 @@
-Getting and Cleaning Data
+<b>Getting and Cleaning Data<b>
+
 This is a repository for any and all code written for the Getting and Cleaning Data Coursera course through Johns Hopkins University.
 
-Course Project
+<b>Course Project<b>
 
 (find all project-related materials in the UCI HAR Dataset directory, however, copies of the important files have been put into this main directory to fulfill the submission requirement)
 
